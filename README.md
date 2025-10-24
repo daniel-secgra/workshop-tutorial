@@ -152,11 +152,5 @@ Once everything is installed and your credentials are set, you're ready to run t
 2.  **Open Your Notebook**
     Your web browser will open. Navigate to and click on any `.ipynb` file in the project directory to open it.
 
-3.  **Select the Kernel**
-    This is the most important step\! Once the notebook is open:
-
-    - Go to the **Kernel** menu at the top.
-    - Click on **Change kernel**.
-    - Select **`myproject_kernel`** (or the name you chose in step 6).
 
 You're all set\! You can now run the cells in the notebook using the isolated environment you just created.
