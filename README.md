@@ -91,7 +91,7 @@ _(You can replace `myproject_kernel` with any name you prefer, just remember it 
 
 Before running the notebooks, you must configure your AWS credentials so the code can access your AWS account. Choose **one** of the methods below.
 
-### Method 1: Set in Terminal (Temporary)
+### Method 1: Set in Terminal (Easy and Temporary)
 
 This method sets your credentials as environment variables for your current terminal session. They will be lost when you close the terminal.
 
